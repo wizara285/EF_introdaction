@@ -32,6 +32,8 @@ namespace EF_introdaction
 
                 Console.WriteLine($"Id: {customer.Customer_Id}, Name: {customer.First_Name}, Age: {customer.Age}");
                 Console.ReadLine();
+
+                Console.WriteLine("Hello");
             }
 
         }
